@@ -1,0 +1,7 @@
+.social-icons{
+    display: contents;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
